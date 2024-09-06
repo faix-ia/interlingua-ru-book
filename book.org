@@ -382,9 +382,9 @@ questiones). Далее проверьте правильность ваших �
 
 *** Lection un / Prime lection
 :PROPERTIES:
-:CUSTOM_ID: lection-un-prime-lection
+:CUSTOM_ID: lec01
 :END:
-Vos vide un libro, un[[#01][(#01)]] libro nigre. Le[[#02][(#02)]] libro es nigre. Esque le
+Vos vide un libro, [[id:exp#01][un]] libro nigre. Le[[#02][(#02)]] libro es nigre. Esque le
 libro es nigre? Si, senior, illo[[#06][(#06)]] es nigre. Esque le libro es
 grande? No, senior, le libro non[[file:lection02.htm#book_11][(11)]] es grande; illo es micre. - Io
 prende[[file:lection02.htm#book_08][(8)]] un libro blanc.  Nunc io ha duo libros. Un libro + (plus) un
@@ -432,6 +432,9 @@ senior, sed ille non es sol. Un seniora sede sur le banco.
 
 *** Explicationes
 **** (1)<<#01>>
+:PROPERTIES:
+:CUSTOM_ID: exp01
+:END:
 /un/ ( произносится *[ун]*) - неопределенный артикль, выражающий
 категорию неопределенности обьекта. При переводе на русский язык он
 либо опускается, либо передается словами "один, одна, какой-то,
