@@ -1,5 +1,3 @@
-https://histriko.tripod.com/manual/index.html
-
 * ПРЕДИСЛОВИЕ К РУССКОМУ ИЗДАНИЮ
 
 Перевод на русский язык популяpного учебника магистра филологии
@@ -268,8 +266,6 @@ en aliaj internaсiaj organizajhoj, preskau chiuj shajnas nescii ke
 ekzistas aliaj eblaj solvoj, ne tiel neraciaj.
 #+end_src
 
-
-
 Тот же текст на интерлингве (1951):
 #+begin_src
 Sempre quando on discute tal problemas in le Nationes Unite e in
@@ -277,7 +273,6 @@ altere organisationes international, quasi omnes sembla ignorar que
 existe altere solutiones possibile, non si irrational.
 
 #+end_src
-
 
 Главная задача - это найти такой язык, который был бы хорошо встречен
 людьми, рассматривающих его в качестве близкого к их родному языку или
@@ -294,13 +289,13 @@ existe altere solutiones possibile, non si irrational.
 
 Алфавит интеpлингвы содержит 26 букв. Буквы и их названия представлены ниже.
 
-| A - [а]   | H - [ха]    | O - [о] | V - [вэ]       |
+| A - [а]   | H - [ха]    | O - [о] | V - [вэ]        |
 | B - [бэ]  | I - [и]     | P - [пэ | W - [вэ дупле]  |
-| C - [цэ]  | J - [джота] | Q - [ку | X - [икс]      |
-| D - [дэ]  | K - [ка]    | R - [эp | Y - ['ипсилон] |
-| E - [э]   | L - [эль]   | S - [эс | Z - [зэта]     |
-| F - [эф] | M - [эм]    | T - [тэ |               |
-| G - [гэ]  | N - [эн]    | U - [у] |               |
+| C - [цэ]  | J - [джота] | Q - [ку | X - [икс]       |
+| D - [дэ]  | K - [ка]    | R - [эp | Y - ['ипсилон]  |
+| E - [э]   | L - [эль]   | S - [эс | Z - [зэта]      |
+| F - [эф]  | M - [эм]    | T - [тэ |                 |
+| G - [гэ]  | N - [эн]    | U - [у] |                 |
 
 
 В настоящем приложении ударение имеет вид кавычки, которая стоит перед
@@ -319,7 +314,7 @@ i 	[и] fi'nir [фи'нир];
 o 	[о] 'pomo ['помо];
 u 	[у] fructo ['фрукто];
 y 	перед гласным в безударной позиции, как [й]: yod [йод], Yugoslavia [йуго'славиа].
-В остальных случаях как [и]: psychologic [псико'логик] (чаще всего встречается в научной лексике).
+          В остальных случаях как [и]: psychologic [псико'логик] (чаще всего встречается в научной лексике).
 
 К дифтонгам относятся:
 au 	[а + у] pausa - ['пауза];
@@ -384,114 +379,48 @@ t 	перед безударным "i", в окончаниях -antia, -entia, 
 questiones). Далее проверьте правильность ваших ответов по ключам
 (Clave 1), которые помещены в конце книги текстов!
 
-* Lection un / Prime lection
 
-Vos vide un libro, un[fn:1] libro nigre[fn:4]. Le[fn:2] libro es nigre. Esque
-le libro es nigre? Si, sinior, illo[fn:6] es nigre. Esque le libro es
-grande? No, sinior, le libro non[fn:11] es grande; illo es micre. - Io
-prende[fn:8] un libro blanc. Nunc io ha duo libros. Un libro + (plus) un
-libro = (es) duo libros[fn:3]. Esque io ha duo libros nigre[fn:5]? No,
+*** Lection un / Prime lection
+:PROPERTIES:
+:CUSTOM_ID: lection-un-prime-lection
+:END:
+Vos vide un libro, un[[#01][(#01)]] libro nigre. Le[[#02][(#02)]] libro es nigre. Esque le
+libro es nigre? Si, senior, illo[[#06][(#06)]] es nigre. Esque le libro es
+grande? No, senior, le libro non[[file:lection02.htm#book_11][(11)]] es grande; illo es micre. - Io
+prende[[file:lection02.htm#book_08][(8)]] un libro blanc.  Nunc io ha duo libros. Un libro + (plus) un
+libro = (es) duo libros[[#book_03][(3)]]. Esque io ha duo libros nigre[[#book_05][(5)]]?  No,
 senior, vos ha un libro nigre e un libro blanc.
 
-Ecce un senior! Ille es elegante. Que face(8) ille? Ille sta ante un
-banco. Esque on vide duo seniores(3)? No, on vide solmente un senior,
-sed ille non es sol. Un seniora sede sur le banco.
+Ecce un senior! Ille es elegante. Que
+face[[file:lection02.htm#book_08][(8)]] ille? Ille sta ante un banco.
+Esque on vide duo seniores[[#book_03][(3)]]? No, on vide solmente un
+senior, sed ille non es sol. Un seniora sede sur le banco.
 
 *** Lista de vocabulos
+:PROPERTIES:
+:CUSTOM_ID: lista-de-vocabulos
+:END:
+| prime  | первый       | nunc     | теперь             |
+| vos    | вы           | ha       | имеет              |
+| vide   | видите       | e        | и                  |
+| libro  | книга        | ecce     | вот                |
+| nigre  | черный       | ille     | он                 |
+| es     | есть         | face     | делает             |
+| esque  | разве        | sta      | стоит              |
+| illo   | он, она, оно | ante     | перед              |
+| no     | нет          | banco    | скамейка           |
+| mi     | мой, мои     | solmente | только             |
+| micre  | миниатюрный  | sed      | но                 |
+| io     | я            | sol      | один, единственный |
+| prende | беру         | seniora  | дама, госпожа      |
+| senior | господин     | sede     | сидит              |
 
-| prime   | первый            |
-| nunc    | теперь            |
-| vos     | вы                |
-| ha      | имеет             |
-| vide    | видите            |
-| e       | и                 |
-| libro   | книга             |
-| ecce    | вот               |
-| nigre   | черный            |
-| ille    | он                |
-| es      | есть              |
-| face    | делает            |
-| esque   | разве             |
-| sta     | стоит              |
-| illo    | он, она, оно      |
-| ante    | перед             |
-| no      | нет               |
-| banco   | скамейка           |
-| mi      | мой, мои          |
-| solment | e 	только     |
-| micre   | миниатюрный       |
-| sed     | но                |
-| io      | я                 |
-| sol     | один, единственный |
-| prende  | беру              |
-| seniora | дама, госпожа     |
-| senior  | господин           |
-| sede    | сидит             |
-
-
-*** Explicationes
-
-[fn:1] un ( произносится [ун]) - неопределенный артикль, выражающий
-    категорию неопределенности обьекта. При переводе на русский язык
-    он либо опускается, либо передается словами "один, одна, какой-то,
-    какая-то" и др.  Если неопределенный артикль не используется в
-    подлежащем предложения на интерлингве, то в русском переводе это
-    подлежащее помещается в конец фразы, например:
-    #+begin_src
-Un puero entrava in le camera.
-В комнату вошел мальчик.
-    #+end_src
-
-[fn:2] le ([ле]) - определенный артикль, свидетельствующий о том, что
-    речь идет о предмете (лице) уже известном читателю: le libro, le
-    libros nigre (книга, черные книги). Определенный артикль не
-    зависит от рода и числа существительных: le infante (ребенок), le
-    infantes (дети).
-
-[fn:3] -s, -es. Эти окончания указывают на
-    множественное число имен существительных. Окончание "-s"
-    добавляется после гласного ('auto - 'autos), тогда как "-es" -
-    после согласного (union - uniones).  Стоит отметить, что
-    пpисоединение к существительному окончания множественного числа не
-    изменяет место ударения в слове.  Окончание "-s" используется для
-    обозначения множественного числа в следующих языках: английском,
-    французском, испанском, португальском, голландском, немецком,
-    латинском и греческом. (В четырех последних языках "-s" является
-    одним из возможных окончаний).
-
-[fn:4] Nigre - качественное прилагательное. Как правило, прилагательные
-    следуют за определяемыми существительными (точно также, как в
-    романских языках), однако малосложные и наиболее употребительные
-    прилагательные могут предшествовать им: un bon amico (хороший
-    друг), le grande libro (большая книга), le 'juvene senior (молодой
-    господин), le 'vetule amicos (старые друзья).
-
-[fn:5] Libros nigre (черные книги). Имя прилагательное имеют единственную форму, не зависящую от рода и числа существительных.
-
-[fn:6] Si, illo es nigre (Да, она черная). Местоимение ("местоимение" ->
-    вместо имени) используется в том случае, если необходимо избежать
-    повторений в речи (libro -> illo).  Слова, обозначающие лица
-    мужского pода, заменяются местоимением "ille" ("он"). Местоимение
-    "illa" ("она") служит заменой для слов, которые указывают на лица
-    женского pода. Вместо остальных существительных (предметов,
-    понятий и т. д.), относящихся в интерлингве к среднему роду,
-    используется местоимение "illo". Пpи этом, "ille" обозначает "он"
-    и "тот", а "illa", в свою очередь, - "она" и "та".  Русскому
-    местоимению "они" поставлено в соответствие сразу три местоимения
-    интерлингвы "illes", "illas", "illos", которые относятся к
-    существительным соответственно мужского, женского и среднего
-    рода. Местоимение "illes" используется также в том случае, если
-    речь идет о группе лиц, в которой одновременно представлены лица
-    мужского и женского рода.  Личные местоимения "ille" и "illa"
-    могут применяться к словам, обозначающим близких домашних
-    животных. Вместе с тем общепринятой формой в этом случае считается
-    местоимение "illo".
 
 *** Упражнение - Exercitio
 
 Пеpеведите:
-1. Скамейки, белые скамейки.
-2. Разве два господина сидят на скамейке?
+1. /Скамейки, белые скамейки/.
+2. /Разве два господина сидят на скамейке?/
 
 Закончите следующие фразы требуемыми личными местоимениями:
 
@@ -499,355 +428,79 @@ Un puero entrava in le camera.
 4. Esque le senior/es es elegante? - Si, ... (...) es elegante.
 5. Esque le seniora/s es elegante? - Si, ... (...) es elegante.
 
-* Lection duo / Secunde lection
-
-Le juvene senior reguarda le juvena dama. Illa[fn:6] es un senioretta
-belle, e ille la [fn:7] reguarda con interesse. Nostre amico es un senior
-elegante, sed illa tamen le [fn:7] reguarda sin interesse. - Nos debe
-constatar [fn:9] iste facto "tragic" jam nunc. - Ille pensa: "Io es
-fatigate; io debe seder [fn:9]." Ille dice a illa [fn:12]: "Excusa [fn:10] me,
-senioretta! Esque vos permitte que io me sede?" Illa non responde per
-parolas, sed face un signo con la capite.
-
-** QUESTIONES
-
-- Que face le senior?
-- Esque ille la reguarda sin interesse?
-- Qui es elegante?
-- Que pensa le juvene senioretta?
-- Esque le senior es multo fatigate?
-
-*** Lista de vocabulos
-| secunde   | второй         |
-| debe      |              |
-| 'juvene   | молодой       |
-| iste      |              |
-| illa      |              |
-| facto     |              |
-| seniorett | вушка         |
-| jam       |              |
-| con       |              |
-| seder     |              |
-| interesse | терес         |
-| dice      |              |
-| 'tamen    | нако          |
-| per       | твоpит. падежа |
-| sin       |              |
-| parolas   | ова           |
-| nos       |              |
-| 'capite   | лова          |
-| multo     |              |
-
-*** EXPLICATIONES
-
-[fn:7] Личные местоимения:
-
-| Един. число  | Подлежащее         | Дополнение          |
-|------------+-------------------+--------------------|
-| 1 лицо      | io - я             | me - меня, мне      |
-| 2 лицо      | tu - ты            | te - тебя, тебе      |
-| 3 лицо м.р. | ille - он          | le - его, ему       |
-| - ж.р.     | illa - она         | la -  ее, ей        |
-| - с.р.      | illo - он, она,оно | lo - его,ее; ему, ей |
-
-| Множ. число | Подлежащее  | Дополнение     |
-|------------+------------+---------------|
-| 1 лицо      | nos - мы   | nos - нас, нам |
-| 2 лицо      | vos - вы    | vos - вас, вам |
-| 3 лицо м.р. | illes - они | les - их, им   |
-| - ж.р.     | illas - они | las -  их, им  |
-| - с.р.      | illos - они | los -  их, им  |
-|            |            |               |
-
-
-se (= себя, -ся, -сь) - возвратное местоимение: Ille se rasa (он бреется).
-
-on - неопределенное местоимение. Конструкции с неопределенным местоимением интерлингвы соответствуют безличным предложениям русского языка:
-        on dice - говорят, on vende - продают.
-
-[fn:8]    Vide (= видит), prende (= берет), face (= делает), sta (= сто'ит), sede (= сидит) - глаголы из урока 1, т.е. слова, которые обозначают действие. В уроке 2 мы находим "reguarda, debe, pensa, dice, permitte" и другие. Все эти глаголы стоят в форме настоящего времени, le presente, которая указывает на то, что действие происходит в данный момент вpемени (или всегда).
-    В интеpлингве, форма глагола в Presente всегда оканчивается на одну из букв: -a, -e или -i. Пpичем, эти окончания остаются неизменными для всех лиц.
-
-[fn:9]Consta'tar (делать вывод, констатировать), seder (сидеть), au'dir (слышать), fi'nir (кончать) - глаголы, стоящие в неопределенной форме (в инфинитиве).  Инфинитив - это базовая форма глагола, которая приводится в словарях.
-    Вообще говоря, инфинитив в интерлингве является единственной формой, которая необходима для правильного образования остальных форм глагола. Глагол в интерлингве всегда оканчивается на -r. Таким образом, для получения формы настоящего времени (le presente) следует отбросить конечный согласный -r. Запомните! Место ударения при этом сместится на другой слог, в сравнении с ударением в инфинитиве.
-
-[fn:10] Excusa! (= Простите!). Это форма повелительного наклонения (императива) - форма, которая служит для выражения приказа или побуждения к действию. Формы императива и Presente совпадают по написанию, однако их легко отличают друг от друга, поскольку форма императива не требует подлежащего.
-
-*** EXERCITIO
-Переведите на интерлингву:
-
-1. Вы видите девушку на скамейке?
-2. Да, сударь, я ее вижу.
-3. Вы должны ее видеть!
-4. Она не только молода, но (ma, sed) также (anque, 'etiam) и красива.
-5. Что ей говорит молодой человек?
-6. Наша девушка не отвечает.
-7. Ответьте мне! (Ответь мне!).
-8. Садитесь (Садись) на скамейку!
-9. Смотрите! (Смотри!)
-
-[fn:11]    non ( = не) помещается непосредственно перед словом, на которое приходится отрицание.
-
-[fn:12]    a - это предлог. Предлог "а" вместе с последующим аpтиклем "le" образует слитную форму "al". За предлогами могут следовать самостоятельные местоимения, которые отличаются от местоимений-подлежащих формами "me" и "te" (взамен "io" и "tu"):
-
-Ille face un signo a me (a te, a ille, a illes etc). 	Он подает мне (тебе, ему, им  и т.д.) знак.
-
-
-*** Lection tres / Tertie lection
-
-In lection 4 (quatro) nos vide le continuation del (14) historia in lenction 2.
-Nunc nos conta:
-
-0 = zero
-
-1 = un
-
-
-1e = prime
-
-2 = duo
-
-
-2e = secunde
-
-3 = tres
-
-
-3e = tertie
-
-4 = quatro
-
-
-4e = quarte
-
-5 = cinque
-
-
-5e= quinte
-
-6 = sex
-
-
-6e = sexte
-
-7 = septe
-
-
-7e = s'eptime
-
-8 = octo
-
-
-8e = octave
-
-9 = 'novem
-
-
-9e = none
-
-10 = dece
-
-
-10e = decime
-
-11 = dece-un
-
-
-11e = dece-prime
-
-20 = vinti
-
-
-20e = vint'esime
-
-21 = vinti-un
-
-
-21e = vinti-prime
-
-30 = trenta
-
-
-30e = trent'esime
-
-40 = quaranta
-
-
-40e = quarant'esime
-
-50 = cinquanta
-
-
-50e = cinquant'esime
-
-60 = sexanta
-
-
-60e = sexantesime
-
-70 = septanta
-
-
-70e = septantesime
-
-80 = octanta
-
-
-80e = octantesime
-
-90 = novanta
-
-
-90e = novantesime
-
-100 = cento
-
-
-100e = centesime
-
-1000 = mille
-
-
-1000e = millesime
-
-2487 = duo milles quatro centos octanta-septe
-
-1951 = mille novem centos cinquanta-un
-
-1000000 = un million; duo milliones etc.
-
-+ plus
-
-- minus
-
-? – vices
-
-: dividite per
-
-= es
-
-EXPLICATIONES
-
-    Существует два вида числительных: un (один), duo (два) и т.д. - количественные числительные ('numeros cardinal); prime (пеpвый), secunde (втоpой) и т.д. - порядковые числительные ('numeros ordinal).
-    Вообще говоря, все порядковые числительные можно было бы образовать из количественных прилагательных путем отбрасывания конечного гласного (если таковой имеется) и присоединения суффикса "-'esime". (Обратите внимание на ударение!). Однако, это пpавило рекомендуется применять к числительным десяткам от 20 и выше, поскольку в основах многих производных слов лежат исторические латинские корни:
-            le vintesime (двадцатый),      le trentesime (тридцатый) и т.д.
-
-EXERCITIO
-
-Напишите словами:
-
-    76.
-    135.
-    1971.
-    12 434.
-    778 903.
-    18 765 432.
-    32 * 4 = 128 (* = vices).
-    Седьмой.
-    Девяносто третий.
-    Десятый.
-    Одиннадцатый.
-    Восемнадцатый.
-    Девятнадцатый.
-
-Дата в интерлингве, в отличие от даты в русском языке, передается количественным числительным: le duo de octobre (второе октября). Исключение составляет лишь первое число каждого месяца: le prime de septembre (первое сентября).
-
-    Le continuation del (del = de + le) historia (продолжение истории). Предлог "de" всегда сливается с "le" и образует "del": le libros del amicos (книги друзей).
-
-EXERCITIO
-
-Переведите:
-
-    Друг молодого человека.
-    История нашего друга.
-    Он считает слова урока (считать = contar).
-
-
-Lection quatro / Quarte lection
-
-Quando illes sedeva (15) ibi, sur le banco, un presso le altere, un de su amicos /de ille/(28) passava. Ille salutava, sed nostre heroe non videva, non audiva. Altere cosas le absorbeva troppo, e ille non le remarcava. Tune le amico se approchava e critava a voce forte: "Bon die, Hugo ! Como sta tu?" — "Eh ... oh, salute! Gratias, ben! E tu?" respondeva Hugo, qui se sentiva embarassate. Illes parlava alcun minutas, sed le conversation non esseva interessante.
-
-QUESTIONES
-
-    Ubi es nunc le juvene senioretta e le juvene senior?
-    Esque illes es sol?
-    Como dicer "parlar a voce forte" per un altere parola?
-    Proque non responde nostre heroe?
-    Que debeva facer le amico de Hugo pro salutar le?
-    A que pensava Hugo?
-    Proque le duo amicos non parlava longe?
-
-Lista de vocabulos
-quando 	когда 	critava 	закричал
-illes 	они 	voce 	голос
-sedeva 	сидели 	die 	день
-ibi 	там 	Сomo sta tu? 	Как поживаешь?
-presso 	у, возле 	salute 	привет
-altere 	другой 	alcun 	несколько
-su 	его,ее,их 	sed 	но
-audiva 	услышал 	esseva 	был
-cosas 	вещи 	ubi 	где
-tunc 	тогда 	proque 	почему
-longe 	длинный
-
-EXPLICATIONES
-
-    Окончание "-va" говорит о том, что действие глагола совершилось (или совершалось) в прошлом.
-
-    Он сидит (сегодня).    Ille sede ('hodie).
-    Он сидел (вчера).    Ille sedeva (heri).
-
-    Отбросив конечный "-r" инфинитива "seder", мы получим форму "sede-" (основа Presente). Присоединение к ней "-va" даст форму прошедшего времени (Passato) "sedeva". Примеры:
-
-    говорить - говорю - говорил:     parlar - parla - parlava;
-    слышать - слышу - слышал:     audir - 'audi - audiva.
-
-    Внимание! Форма Passato в интерлингве (на "-va") обозначает как законченное, так и незаконченное действие в прошлом. Вот как следует перевести две первые фразы этого урока:
-    "Quando illes sedeva ibi ...un de su amicos / de ille / un de su amicos / de ille /" Когда они сидели там ... прошел один из его друзей".
-    "Ille salutava, sed nostre her'oe non videva, non audiva" "Он поздоровался, но наш герой не видел, не слышал".
-    Прошедшее законченное время интерлингвы (Perfecto) рассматривается в следующем уроке.
-
-
-Lection cinque / Quinte lection
-
-Quando le amico le ha abandуnate(16), Hugo pote lassar su pensatas retornar a iste juvene femina charmante. Ille ha discoperitele un maniera de informar se concernente illa. Illa lege un libro. Ille, qui es in general un homine assatis discrete, es hodie un poco indiscrete(29), ille reguarda in su libro de illa (28) e vide que illa lege un libro re le Nationes Unite (16) e altere organisationes inter national. Illo es scribite (16) in interlingua — le moderne idioma auxiliar que ille ha vidite (16) utilisate in libros e periodicos medical. Hugo es un studente de medicina e vole devenir un medico.
-
-QUESTIONES
-
-    Que face le juvene femina?
-    Que face Hugo?
-    Proque ha ille devenite indiscrete?
-    Qual libro lege illa?
-    In que lingua es le libro scribite?
-    Ubi ha Hugo vidite iste lingua?
-    Ha ille legite le libro?
-
-Lista de vocabulos
-
-Начиная с этого урока, глаголы будут представлены в форме инфинитива.
-abandonar 	покидать 	un poco 	немного
-poter 	мочь 	su 	свою
-lassar 	оставить 	re 	о, насчет
-pensata 	мысль 	scriber 	писать
-retornar 	возвратиться 	'inter 	между
-'femina 	женщина 	lingua 	язык
-обнаружить 	обнаружить 	peri'odico 	журнал
-maniera 	способ 	studente 	студент,-ка
-leger 	читать 	medicina 	медицина
-'homine 	человек, мужчина 	voler 	хотеть
-as'satis 	достаточно 	qual 	который
-hodie 	сегодня 	medico 	врач
-que 	que что
-
-EXPLICATIONES
-
-    /Ha/... -te. Ha abandonate (scribite, discoperite): покинул (написал, обнаружил).
-    Таким образом, прошедшее законченное время (Perfecto) образуется при помощи вспомогательного слова "ha" + основа глагола (abandona-, scribe-, discoperi-) + "-te". По соображениям исторического характера, буква -e- переходит в -i- в тех случаях, когда инфинитив оканчивается на -er: (scrib-e-r - scrib-i-te).
-    Форма глагола с "-te" на конце представляет собой причастие прошедшего времени (Participio passate). В связи с этим, слова "parlate, audite, scribite" могут выступать также в роли прилагательных.
-
-EXERCITIO
-
-Проработайте матеpиал уроков 1 - 5, поставив все глаголы:
-
-    в Passato (форма на -va) и
-    в Perfecto (форма на -te).
+--------------
+
+*** Explicationes
+**** (1)<<#01>>
+/un/ ( произносится *[ун]*) - неопределенный артикль, выражающий
+категорию неопределенности обьекта. При переводе на русский язык он
+либо опускается, либо передается словами "один, одна, какой-то,
+какая-то" и др. Если неопределенный артикль не используется в подлежащем предложения
+на интерлингве, то в русском переводе это подлежащее помещается в
+конец фразы, например:
+
+#+begin_src
+Un puero entrava in le camera.
+В комнату вошел мальчик.
+#+end_src
+
+**** (2) <<#02>>
+/le/ (*[ле]*) - определенный артикль, свидетельствующий о том, что
+речь идет о предмете (лице) уже известном читателю: /le libro, le
+libros nigre/ (книга, черные книги). Определенный артикль не зависит
+от рода и числа существительных: /le/ /infante/ (ребенок), /le/
+/infantes/ (дети).
+
+**** (3)<<#03>>
+-s, -es. <<#03>> Эти окончания указывают на множественное число имен
+существительных. Окончание "-s" добавляется после гласного ('/auto -
+'autos/), тогда как "-es" - после согласного /(union - uniones)/.
+
+Стоит отметить, что пpисоединение к существительному окончания
+множественного числа не изменяет место ударения в слове.
+
+Окончание "-s" используется для обозначения множественного числа в
+следующих языках: английском, французском, испанском, португальском,
+голландском, немецком, латинском и греческом. (В четырех последних
+языках "-s" является одним из возможных окончаний).
+
+**** (4)<<#04>>
+Nigre - качественное прилагательное. Как правило, прилагательные
+следуют за определяемыми существительными (точно также, как в
+романских языках), однако малосложные и наиболее употребительные
+прилагательные могут предшествовать им:
+
+#+begin_src
+un bon amico (хороший друг),
+le grande libro (большая книга),
+le 'juvene senior (молодой господин),
+le 'vetule amicos (старые друзья).
+#+end_src
+
+**** (5) <<#05>>
+/Libros nigre/ (черные книги). Имя прилагательное имеют единственную
+форму, не зависящую от рода и числа существительных.
+
+**** (6)<<#06>>
+Si, illo es nigre (Да, она черная). Местоимение ("местоимение" ->
+вместо имени) используется в том случае, если необходимо избежать
+повторений в речи (libro -> illo).
+
+Слова, обозначающие лица мужского pода, заменяются местоимением
+"ille" ("он"). Местоимение "illa" ("она") служит заменой для слов,
+которые указывают на лица женского pода. Вместо остальных
+существительных (предметов, понятий и т. д.), относящихся в
+интерлингве к среднему роду, используется местоимение "illo". Пpи
+этом, "ille" обозначает "он" и "тот", а "illa", в свою очередь, -
+"она" и "та".
+
+Русскому местоимению "они" поставлено в соответствие сразу три
+местоимения интерлингвы "illes", "illas", "illos", которые относятся
+к существительным соответственно мужского, женского и среднего рода.
+Местоимение "illes" используется также в том случае, если речь идет о
+группе лиц, в которой одновременно представлены лица мужского и
+женского рода.
+
+Личные местоимения "ille" и "illa" могут применяться к словам,
+обозначающим близких домашних животных. Вместе с тем общепринятой
+формой в этом случае считается местоимение "illo".
